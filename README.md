@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam M</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azmogex" alt="azmogex" /></a> </p>
-
 - 👨‍💻 Portfolio: [https://adam-marzuk.fr](https://adam-marzuk.fr)
 
 - 📫 How to reach me **marzukadam@gmail.com**
@@ -13,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adam-marzuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-marzuk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adam-marzuk-93804828a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-marzuk-93804828a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
