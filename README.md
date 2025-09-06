@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **marzukadam@gmail.com**
 
-- 📄 Know about my experiences [https://cv.adam-marzuk.fr](https://cv.adam-marzuk.fr)
+- 📄 Know about my experiences [https://cv.adam-marzuk.fr]([https://cv.adam-marzuk.fr](https://cv.adam-marzuk.fr/cv.pdf))
 
 - ⚡ Fun fact **I discovered my passion for coding when I was 8 years old.**
 
