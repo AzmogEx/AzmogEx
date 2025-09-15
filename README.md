@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam M</h1>
-<h3 align="center">A passionate fullstack developer from France</h3>
+<h3 align="center">A passionate backend developer from France</h3>
 
 - 👨‍💻 Portfolio: [https://adam-marzuk.fr](https://adam-marzuk.fr)
 
