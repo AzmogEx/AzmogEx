@@ -6,7 +6,7 @@
 ### 🌐 About Me  
 - 👨‍💻 Portfolio: [adam-marzuk.fr](https://adam-marzuk.fr)  
 - 📄 CV: [cv.adam-marzuk.fr](https://cv.adam-marzuk.fr/cv.pdf)  
-- 📫 Reach me at: **marzukadam@gmail.com**  
+- 📫 Reach me at: **contact@adam-marzuk.fr**  
 - ⚡ Fun fact: *I discovered my passion for coding at 8 years old*  
 
 ---
